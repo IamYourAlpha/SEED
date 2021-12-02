@@ -1,2 +1,2 @@
 # SEED 
-## Selective Expert Ensmeble Distillation
+## Selective Expert Ensemble Distillation
